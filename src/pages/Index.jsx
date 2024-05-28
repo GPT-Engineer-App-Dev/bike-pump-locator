@@ -1,7 +1,6 @@
 import { Box, Container, Text, VStack, Heading, Flex } from "@chakra-ui/react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import "leaflet/dist/leaflet.js";
 import L from "leaflet";
 
 // Custom icon for bike pump stations
